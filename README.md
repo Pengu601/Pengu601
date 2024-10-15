@@ -7,8 +7,8 @@ I am fascinated by all things Back-End, mainly focusing on Python and SQL!
 
 - 🔭 I’m currently working on devloping a program that uses the snipping tool feature that automatically transcribes and copy photos of advanced math equations to the clipboard to paste.
 - 🌱 I recently built a program to automatically download all files for specific or all courses, catering towards UCF students. Check it out [here](https://github.com/Pengu601/UCFCanvas-File-Downloader)!
-- 📫 How to reach me: ...
-  - ngonzalezimporant@gmail.com
+- 📫 How to reach me: 
+  - nagonzalez601@gmail.com
 <!--
 **Pengu601/Pengu601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
