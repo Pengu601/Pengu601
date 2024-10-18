@@ -5,7 +5,7 @@ My name is Nicholas Gonzalez, and I am an Undergraduate Computer Science major a
 I am fascinated by all things Back-End, mainly focusing on Python and SQL!
 
 
-- 🔭 I’m currently working on devloping a program that uses the snipping tool feature that automatically transcribes and copy photos of advanced math equations to the clipboard to paste.
+- 🔭 I’m currently working on devloping a program called [SnapFormula](https://github.com/Pengu601/SnapFormula) that uses the snipping tool feature that automatically transcribes and copy photos of advanced math equations to the clipboard to paste.
 - 🌱 I recently built a program to automatically download all files for specific or all courses, catering towards UCF students. Check it out [here](https://github.com/Pengu601/UCFCanvas-File-Downloader)!
 - 📫 How to reach me: 
   - nagonzalez601@gmail.com
