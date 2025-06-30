@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-My name is Nicholas Gonzalez, and I am an Undergraduate Computer Science major at UCF ⚔️. 
+My name is Nicholas Gonzalez, and I am a Junior Computer Science major at UCF ⚔️. 
 
-I am fascinated by all things Back-End, mainly focusing on Python and SQL!
+I am engaged in back-end development, working mainly with Java, Python, SQL, and AWS/MongoDB.
 
 
-- 🔭 I’m currently working on devloping a program called [SnapFormula](https://github.com/Pengu601/SnapFormula) that uses the snipping tool feature that automatically transcribes and copy photos of advanced math equations to the clipboard to paste.
-- 🌱 I recently built a program to automatically download all files for specific or all courses, catering towards UCF students. Check it out [here](https://github.com/Pengu601/UCFCanvas-File-Downloader)!
+- 🔭 I’m currently creating a personal porftfolio website that will host all the projects I have created. This will be using a Java Springboot back-end with a React front-end.
+- 🌱 I recently participated in the GemiHacks Hackathon, where my team and I created MindStream, a full-stack application which converts audio into an interactive mind-map. Check it out [here](https://github.com/skatari172/MindStream)!
 - 📫 How to reach me: 
-  - nagonzalez601@gmail.com
+  - ngonzalezimportant@gmail.com
 <!--
 **Pengu601/Pengu601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
