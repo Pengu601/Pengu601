@@ -2,11 +2,11 @@
 
 My name is Nicholas Gonzalez, and I am a Junior Computer Science major at UCF ⚔️. 
 
-I am engaged in back-end development, working mainly with Java, Python, SQL, and AWS/MongoDB.
+I am engaged in back-end development, working mainly with Java, Python, SQL, and AWS/MongoDB. I have also been enjoying C kernel and C++ development.
 
 
-- 🔭 I’m currently creating a paperTrading stock app that will replicate trades made in the stock market with a 24-hour delay. This will be using a Java Springboot back-end with a React front-end, with a AWS RDS DB.
-- 🌱 I recently participated in the GemiHacks Hackathon, where my team and I created MindStream, a full-stack application which converts audio into an interactive mind-map. Check it out [here](https://github.com/skatari172/MindStream)!
+- 🔭 I’m currently creating a linux fingerprint driver in C.
+- 🌱 I recently participated in the KnightHacks Hackathon, winning 1st place in the Google Geminin A2A/ADK challenge with my team's application Hermes. 
 - 📫 How to reach me: 
   - ngonzalezimportant@gmail.com
 <!--
